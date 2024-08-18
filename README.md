@@ -1,5 +1,6 @@
 # Discord Golfblitz Bot
 A bot that faces both discord and golfblitz created by lighthouse64
+Updated by Drout to handle the migration of the Golf blitz game to a new backend.
 
 To set this up, first make sure you install the required python packages with `pip install -r requirements.txt`
 
