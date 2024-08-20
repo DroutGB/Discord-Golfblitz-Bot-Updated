@@ -19,4 +19,5 @@ async def test():
     async for message in ws2:
         print(message)
 
-asyncio.get_event_loop().run_until_complete(test())
+asyncio.run(test())
+
