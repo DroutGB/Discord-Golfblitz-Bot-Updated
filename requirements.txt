@@ -1,6 +1,6 @@
-requests==2.26.0
-pycountry==20.7.3
-discord.py==1.7.3
-websockets==10.0
-beautifulsoup4==4.10.0
-cloudscraper==1.2.58
+requests==2.32.3
+pycountry==24.6.1
+discord.py==2.4.0
+websockets==13.0
+beautifulsoup4==4.12.3
+cloudscraper==1.2.71
